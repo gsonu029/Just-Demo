@@ -10,7 +10,9 @@ https://earthquake.usgs.gov/fdsnws/event/1/
 
 Adding the screeshots of the Application
 ------------- 
-![Screenshot (1)](https://user-images.githubusercontent.com/66202099/99708607-0f162c00-2ac4-11eb-86e1-8751da54cbee.png)
+
+| <img src="https://user-images.githubusercontent.com/66202099/99765340-e1150400-2b24-11eb-992b-9c9e3298481f.jpg" width="250"> |
+| <img src="https://user-images.githubusercontent.com/66202099/99765340-e1150400-2b24-11eb-992b-9c9e3298481f.jpg" width="250"> |
 
 
 Pre-requisites
